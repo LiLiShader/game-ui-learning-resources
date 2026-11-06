@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "releaseTag": "classroom-2026-11-07",
+  "releaseUrl": "https://github.com/LiLiShader/game-ui-learning-resources/releases/tag/classroom-2026-11-07",
+  "distributionNote": "老师已声明取得这三个原包的公开分发授权；公开下载不改变素材原有许可。",
+  "resources": [
+    {
+      "id": "super-casual-psd",
+      "name": "GUI Pro - Super Casual(+PSD)",
+      "versionFromFileName": "1.1.7",
+      "fileName": "gui-pro-super-casual-psd-v1.1.7.unitypackage",
+      "originalFileName": "GUI Pro - Super CasualPSD v1.1.7.unitypackage",
+      "downloadUrl": "https://github.com/LiLiShader/game-ui-learning-resources/releases/download/classroom-2026-11-07/gui-pro-super-casual-psd-v1.1.7.unitypackage",
+      "sizeBytes": 758515110,
+      "sha256": "d269746abb4950b56ccf76cdefade3a3d3a247d63bf1d2cc42dbecaf9f9115ac",
+      "outerPngPathCount": 2489,
+      "nestedPackages": [
+        "Assets/Layer Lab/GUI Pro-SuperCasual/PSD/PSD.unitypackage"
+      ],
+      "displayUrl": "https://layerlab.io/products/gui-pro-super-casual-psd"
+    },
+    {
+      "id": "simple-casual-psd",
+      "name": "GUI Pro - Simple Casual(+PSD)",
+      "versionFromFileName": "1.0.7",
+      "fileName": "gui-pro-simple-casual-psd-v1.0.7.unitypackage",
+      "originalFileName": "GUI Pro-Simple Casual(+PSD)_V1.0.7.unitypackage",
+      "downloadUrl": "https://github.com/LiLiShader/game-ui-learning-resources/releases/download/classroom-2026-11-07/gui-pro-simple-casual-psd-v1.0.7.unitypackage",
+      "sizeBytes": 259541319,
+      "sha256": "d58b2b8bdaa138ab59ead9b12c20265a47d4498bc2b46f6326d80dca205a3697",
+      "outerPngPathCount": 3591,
+      "nestedPackages": [
+        "Assets/Layer Lab/GUI Pro-SimpleCasual/PSD/PSD.unitypackage"
+      ],
+      "displayUrl": "https://layerlab.io/products/gui-pro-simple-casual-psd"
+    },
+    {
+      "id": "minimal-game-light-psd",
+      "name": "GUI Pro - Minimal Game Light(+PSD)",
+      "versionFromFileName": "2.0.0",
+      "fileName": "gui-pro-minimal-game-light-psd-v2.0.0.unitypackage",
+      "originalFileName": "GUI Pro - Minimal Game LightPSD2.0.0.unitypackage",
+      "downloadUrl": "https://github.com/LiLiShader/game-ui-learning-resources/releases/download/classroom-2026-11-07/gui-pro-minimal-game-light-psd-v2.0.0.unitypackage",
+      "sizeBytes": 358408488,
+      "sha256": "989890333bf522d0829542be74ff9241586e11eefdd36719bac1739aa3010369",
+      "outerPngPathCount": 3049,
+      "nestedPackages": [
+        "Assets/Layer Lab/GUI Pro-MinimalGame/_SourceFiles/PSD_Light/PSD_Light.unitypackage",
+        "Assets/Layer Lab/GUI Pro-MinimalGame/Theme_Light/PSD_ReadOnly/PSD_ReadOnly.unitypackage"
+      ],
+      "displayUrl": "https://assetstore.unity.com/packages/2d/gui/gui-pro-minimal-game-light-psd-355510"
+    }
+  ]
+}
